@@ -15,8 +15,8 @@ Current software versions for latest and tags:
 
 | Tags | PHP version | Drupal versions | Composer | WP-CLI | Alpine |
 | ---- | ----------- | --------------- | ----- | ------ | ------ |
-| latest | 8.1 | 8, 9, 10 | 2.4.2 | 2.6.0 | 3.16 |
-| 1.0.0 | 8.1 | 8, 9, 10 | 2.4.2 | 2.6.0 | 3.16 |
+| latest | 8.2.6 | 9, 10 | 2.5.5 | 2.7.1 | 3.18 |
+| 1.0.0 | 8.2.6 | 9, 10 | 2.5.5 | 2.7.1 | 3.18 |
 
 Where:
  * **x.y.z** is the container version as seen on the [tags page](https://github.com/ten7/flightdeck-web-8.1/tags)
